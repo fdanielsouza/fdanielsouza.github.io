@@ -1,3 +1,5 @@
+[Privacy Policy](https://fdanielsouza.github.io/PRIVACY)
+
 # multiInfoCards Power BI Custom Visual
 
 This page is intended to provide support and relevant information about the development process of the visual. 
