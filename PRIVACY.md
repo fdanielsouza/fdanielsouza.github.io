@@ -1,4 +1,4 @@
-[Index](https://fdanielsouza.github.io/)
+[Index](/)
 
 # Custom Visuals Privacy Policy
 
