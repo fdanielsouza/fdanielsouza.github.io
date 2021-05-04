@@ -15,9 +15,10 @@ Add a category field in Titles and either an image field in Images or a measure 
 
 ## Sample report
 
-<figure class="video_container">
-  <iframe src="https://app.powerbi.com/view?r=eyJrIjoiN2RhYmI2NmYtNjYxZC00MmRhLTkwNmEtYzM2Mjg2MzRmMTY3IiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiN2RhYmI2NmYtNjYxZC00MmRhLTkwNmEtYzM2Mjg2MzRmMTY3IiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9) to see the Multi Info Cards visual in action, in a sample report about COVID-19 data
+
+![A picture of the visual](https://user-images.githubusercontent.com/43036486/117070027-99b1b700-ad03-11eb-9467-117500d66e6d.png)
+
 
 ## Contact for support
 
