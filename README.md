@@ -25,5 +25,6 @@ Take a look at the visual in action with a sample report about COVID-19 data
 ## Contact for support
 
 [My LinkedIN Profile](https://www.linkedin.com/in/francisco-daniel-souza-fernandes-a75b97b1/)
+
 [My email](mailto:f.daniel.souza@alu.ufc.br)
 
