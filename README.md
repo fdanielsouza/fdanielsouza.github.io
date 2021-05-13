@@ -10,8 +10,9 @@ Add a category field in Titles and either an image field in Images or a measure 
 
 ## Roadmap
 
-* Conditional formatting for both background and texts
+* Enable conditional formatting for both background and texts
 * Add text alignment options
+* Add a "cover" mode, in which the image is bigger and looks like a Linkedin or Facebook profile cover
 
 ## Sample report
 
