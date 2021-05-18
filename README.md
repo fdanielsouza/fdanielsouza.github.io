@@ -22,7 +22,7 @@ Add a category field in Titles and either an image field in Images or a measure 
 Take a look at the visual in action with a sample report about COVID-19 data
 
 <figure class="video_container">
-  <iframe src="https://app.powerbi.com/view?r=eyJrIjoiN2RhYmI2NmYtNjYxZC00MmRhLTkwNmEtYzM2Mjg2MzRmMTY3IiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9" frameborder="0"  width="100%" height="460" allowfullscreen="true"> </iframe>
+  <iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTFhZjIyZDctNTZhZS00YTk3LTlkYzgtNmRlMjkwYjI1YWJmIiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9&pageName=ReportSection" frameborder="0"  width="100%" height="460" allowfullscreen="true"> </iframe>
 </figure>
 
 
