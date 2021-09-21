@@ -10,6 +10,9 @@ Add a category field in Titles and either an image field in Images or a measure 
 
 ## Changelog
 
+### Sep 21, 2021
+* Implemented support for line breaks inside information texts
+* 
 #### May 18, 2021
 * Added conditional formatting to background and new "cover" mode for images
 
