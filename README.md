@@ -10,6 +10,9 @@ Add a category field in Titles and either an image field in Images or a measure 
 
 ## Changelog
 
+#### Oct 4, 2021
+* Added a functionality where a user can click on the text of a Web URL formatted measure and it will open the url page
+
 #### Sep 21, 2021
 * Implemented support for line breaks inside information texts
 
