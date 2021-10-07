@@ -6,9 +6,17 @@ This page is intended to provide support and relevant information about the deve
 
 ## How to use the visual
 
-Add a category field in Titles and either an image field in Images or a measure in Informations. The visual can show up to 8 measures. Also you can include measures in Tooltips field to show in a default Power BI tooltip, or use the Report Page canvas tooltip. You can classify data by any value in the visual, cross-filter or highlight data in the same way the official Power BI visuals do, and multiselect using ctrl. Set a value for the individual cards width and customize background and texts with the options provided. If you need to transform numeric values to a display units format, you will need to first remove any formatting from your fields, otherwise the column/measure format should prevail. 
+Add a category field in Titles and either an image field in Images or a measure in Informations. The visual can show up to 16 measures. Also you can include measures in Tooltips field to show in a default Power BI tooltip, or use the Report Page canvas tooltip. You can classify data by any value in the visual, cross-filter or highlight data in the same way the official Power BI visuals do, and multiselect using ctrl. Set a value for the individual cards width and customize background and texts with the options provided. If you need to transform numeric values to a display units format, you will need to first remove any formatting from your fields, otherwise the column/measure format should prevail. 
+
+## Current version
+
+1.2.9.0
 
 ## Changelog
+
+#### Oct 7, 2021
+* Now the visual supports a total of 16 measures
+* Added text alignment options for titles, field names and values
 
 #### Oct 4, 2021
 * Added a functionality where a user can click on the text of a Web URL formatted measure and it will open the url page
@@ -21,7 +29,7 @@ Add a category field in Titles and either an image field in Images or a measure 
 
 ## Roadmap
 
-* Add text alignment options
+* Create a certifiable version of the visual, without features which can call external url services
 
 ## Sample report
 
