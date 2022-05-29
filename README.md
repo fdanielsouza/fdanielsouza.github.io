@@ -4,7 +4,9 @@
 
 This page is intended to provide support and relevant information about the development process of the visual. 
 
-#<span style="color:red;">Important Warning</span>
+<h4 style="color:red;">Important Warning</span></h4>
+<p style="color:red;">Hello folks! Over the last few months I'm receiving some complaints about some bugs in the formatting options (specially Conditional Formatting pane not showing up) of this visual in Power BI Desktop. I'm aware of the problem, which is caused by the new Power BI Desktop UI, and I'm trying to solve it. However, I can't fix it right now because the custom visual debuging happens in Power BI Service, which is still using the old UI. I already contacted Microsoft about this but I'll need them to update the entire Service.</p>
+<p style="color:red;">Right now the only workaround is to edit the report in the Service and add Conditional Formatting from there, then save the report again</p>
 
 ## How to use the visual
 
