@@ -4,19 +4,18 @@
 
 This page is intended to provide support and relevant information about the development process of the visual. 
 
-<h2 style="color:red;font-weight:bold;">Important Warning</h2>
-<p style="color:red;">Hello folks! Over the last few months I've been receiving some complaints about some bugs in the formatting options (specially Conditional Formatting pane not showing up) of this visual in Power BI Desktop. I'm aware of the problem, which is caused by new Power BI Desktop's new UI, and I'm trying to solve it. However, I can't fix it right now because the custom visual debuging happens in Power BI Service, which is still using the old UI. I already contacted Microsoft about this but I'll need them to update the entire Service, so it can take more time than I expected.</p>
-<p style="color:red;">Right now the only workaround is to edit the report in the Service and add Conditional Formatting from there, then save the report again</p>
-
 ## How to use the visual
 
 Add a category field in Titles and either an image field in Images or a measure in Informations. The visual can show up to 16 measures. Also you can include measures in Tooltips field to show in a default Power BI tooltip, or use the Report Page canvas tooltip. You can classify data by any value in the visual, cross-filter or highlight data in the same way the official Power BI visuals do, and multiselect using ctrl. Set a value for the individual cards width and customize background and texts with the options provided. If you need to transform numeric values to a display units format, you will need to first remove any formatting from your fields, otherwise the column/measure format should prevail. 
 
 ## Current version
 
-1.2.9.0
+1.2.9.2
 
 ## Changelog
+
+#### Jul 29, 2022
+* Fixed a bug in the new Power BI interface that the conditional formatting pane wasn't showing up even when enabled
 
 #### Oct 7, 2021
 * Now the visual supports a total of 16 measures
